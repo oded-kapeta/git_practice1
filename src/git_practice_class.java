@@ -12,4 +12,7 @@ public class git_practice_class {
     {
         return x*x*x;
     }
+    public static int getx(int x){
+        return x*x;
+    }
 }

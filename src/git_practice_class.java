@@ -5,4 +5,7 @@ public class git_practice_class {
             //jjjjj
         }
     }
+    public static int getx(int x){
+        return x*x;
+    }
 }
